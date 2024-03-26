@@ -1,0 +1,72 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1093/ser/mwy051",
+            "abstract": "Inequality is on the rise: gains have been concentrated with a small elite, while most have seen their fortunes stagnate or fall. Despite what scholars and journalists consider a worrying trend, there is no evidence of growing popular concern about inequality. In fact, research suggests that citizens in unequal societies are less concerned than those in more egalitarian societies. How to make sense of this paradox? I argue that citizens’ consent to inequality is explained by their growing conviction that societal success is reflective of a meritocratic process. Drawing on 25 years of International Social Survey Program data, I show that rising inequality is legitimated by the popular belief that the income gap is meritocratically deserved: the more unequal a society, the more likely its citizens are to explain success in meritocratic terms, and the less important they deem nonmeritocratic factors such as a person’s family wealth and connections.",
+            "annote": "MAG ID: 2914274646 S2ID: 5818d7c06ac4afbeb166c4c7c3b00270aeb642bf",
+            "author": [
+                {
+                    "literal": "Jonathan J. B. Mijs"
+                },
+                {
+                    "family": "Mijs",
+                    "given": "Jonathan J. B."
+                }
+            ],
+            "container-title": "Socio-economic Review",
+            "id": "jonathanj.b.mijsParadoxInequalityIncome2019",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "page": "7-35",
+            "title": "The Paradox of Inequality: Income Inequality and Belief in Meritocracy go Hand in Hand",
+            "title-short": "The Paradox of Inequality",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.1177/000312240607100305",
+            "abstract": "Are American attitudes toward economic inequality different from those in other countries? One tradition in sociology suggests American “exceptionalism,” while another argues for convergence across...",
+            "annote": "MAG ID: 2085024069",
+            "author": [
+                {
+                    "literal": "Lars Osberg"
+                },
+                {
+                    "family": "Osberg",
+                    "given": "Lars"
+                },
+                {
+                    "literal": "Timothy M. Smeeding"
+                },
+                {
+                    "family": "Smeeding",
+                    "given": "Timothy M."
+                }
+            ],
+            "container-title": "American Sociological Review",
+            "id": "larsosbergFairInequalityAttitudes2006",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        6
+                    ]
+                ]
+            },
+            "page": "450-473",
+            "title": "“Fair” Inequality? Attitudes toward Pay Differentials: The United States in Comparative Perspective:",
+            "title-short": "“Fair” Inequality? Attitudes toward Pay Differentials",
+            "type": "article-journal",
+            "volume": "71"
+        }
+    ],
+    "project_biblios": []
+}

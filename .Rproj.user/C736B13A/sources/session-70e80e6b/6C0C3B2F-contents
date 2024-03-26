@@ -3,6 +3,8 @@ title: "Practico 1-Rstudio"
 author: "Daniela"
 format: html
 editor: visual
+bibliography: practico1_zoterobib.bib
+link-citations: true
 ---
 
 ## Quarto
@@ -25,3 +27,7 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+citas:
+
+las citas se deben citar vd eesta forma [@larsosbergFairInequalityAttitudes2006]
